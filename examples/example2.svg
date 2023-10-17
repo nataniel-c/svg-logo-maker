@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width='300' height='200'>
+        <polygon points="150,0 270,190 20,190"   fill='orange'/>
+        <text x=115 y=110 font-size=300% fill='white'> AMD </text>
+    </svg>
